@@ -12,7 +12,7 @@ I was thinking of taking over the world. Should I let people just vote me in? Th
 OK so:
 - Step 1: Complete this Github *Hello World* tutorial.
 - Step 2: Finish deploying my superweapons in space.
-- Step 3: Destroy some large population centers. How about Paris, Moscow and Bejing? Maybe Pyongyang too.
+- Step 3: Destroy some large population centers. How about Paris, Moscow and Beijing? Maybe Pyongyang too.
 - Step 4: Freshen up for my speech to all the former nations of the world.
 - Step 5: Give speech and dictate terms.
 - Step 6: Accept the unconditional surrender of those willing to do so.
